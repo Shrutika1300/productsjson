@@ -1,0 +1,38 @@
+ {
+        "id": 1,
+        "title": "L Sofa Set",
+        "price": 30,000 ,
+        "description": "Your perfect pack Sofas for your home",
+        "category": "Sofa Sets",
+        "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "rating": {
+            "rate": 4,
+            "count": 120
+        }
+    },
+    
+     {
+        "id": 2,
+        "title": "1 Sofa Set",
+        "price": 50,000 ,
+        "description": "Your perfect pack Sofas for your home",
+        "category": "Sofa Sets",
+        "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "rating": {
+            "rate": 4,
+            "count": 120
+        }
+    },
+    
+     {
+        "id": 3,
+        "title": "2 Sofa Set",
+        "price": 200,000 ,
+        "description": "Your perfect pack Sofas for your home",
+        "category": "Sofa Sets",
+        "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "rating": {
+            "rate": 4,
+            "count": 120
+        }
+    }
